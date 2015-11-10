@@ -1,0 +1,2 @@
+# Complex_Plane_Sequences
+For this assignment we will investigate sequences in the complex plane and determine if they are bounded or not. We will use Processing to display a discrete portion of the complex plane. Each point in our display window will correspond with a complex number, and each point will be put into a recursive sequence and a method will be used to determine whether this sequence is bounded or not.
